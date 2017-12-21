@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Estudios/Spring/Scenes/SpringTest.unity
+- path: Assets/Estudios/LookAt/Scenes/Scene.unity
   isLoaded: 1
   isActive: 1

@@ -29,11 +29,13 @@ namespace Spring
                     m_Current = 0;
             }
 
-            Vector3 nextPos = m_Targets[m_Current].position + m_Offset;
+            Transform current = m_Targets[m_Current];
+
+            Vector3 nextPos = current.position + m_Offset;
             transform.position = Vector3.Lerp(transform.position, nextPos, Time.deltaTime * m_Speed);
 
-            transform.LookAt(m_Targets[m_Current]);
-            m_Text.text = "Lerp Type: " + m_Targets[m_Current].name;
+            transform.LookAt(current);
+            m_Text.text = "Lerp Type: " + current.name;
         }
     }
 }
