@@ -27,7 +27,11 @@ namespace Estudios.Events
         {
             //If all objects have finished moving, invoke onEnd.
             if (m_MoveHandler.AllDone())
-                m_OnEnd.Invoke();
+            {
+                //Invoke the onEnd events.
+                if (m_OnEnd != null)
+                    m_OnEnd.Invoke();
+            }              
         }
     }
 }

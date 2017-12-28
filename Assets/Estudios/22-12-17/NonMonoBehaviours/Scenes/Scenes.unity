@@ -161,9 +161,12 @@ MonoBehaviour:
   m_Items:
   - m_Name: ItemOne
     m_Prefab: {fileID: 1201551210496996, guid: 9a7e6dd43e6c917458df545b0fa9fca5, type: 2}
-  - m_Name: Item Two
+    m_SpawnRotation: {x: 90, y: 0, z: 0}
+  - m_Name: ItemTwo
     m_Prefab: {fileID: 1491526341761744, guid: da6e9681a08f20048a3d0ccda69b94ae, type: 2}
+    m_SpawnRotation: {x: 90, y: 0, z: 0}
   m_SpawnRadius: 50
+  m_SpawnAtStart: 0
 --- !u!1 &819112997
 GameObject:
   m_ObjectHideFlags: 0
@@ -393,8 +396,8 @@ Transform:
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 2062413601}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 1, z: -10}
+  m_LocalRotation: {x: -0.20174615, y: 0.22507846, z: -0.047692493, w: -0.9520313}
+  m_LocalPosition: {x: 49.354115, y: 47.494457, z: -91.272285}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}

@@ -96,6 +96,9 @@
     <Compile Include="Assets\Estudios\22-12-17\Events\Scripts\SimpleObjectMovement.cs" />
     <Compile Include="Assets\Estudios\22-12-17\Events\Scripts\TriggerCausedEvents.cs" />
     <Compile Include="Assets\Estudios\22-12-17\NonMonoBehaviours\Scripts\ItemSpawner.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\Static Classes\Scripts\DistanceChecker.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\Static Classes\Scripts\GameManager.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\Static Classes\Scripts\Player.cs" />
     <Compile Include="Assets\Random\MOVEMENTUNO\Scripts\Movement.cs" />
     <Compile Include="Assets\Random\Plantica\CRESIMIENTOX.cs" />
     <Compile Include="Assets\Random\Scripts\CameraController.cs" />
