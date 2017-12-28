@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Estudios/28-12-17/Static Classes/Scenes/Test.unity
+- path: Assets/Estudios/28-12-17/AI/Scenes/Test.unity
   isLoaded: 1
   isActive: 1

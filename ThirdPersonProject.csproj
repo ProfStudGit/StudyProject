@@ -96,6 +96,13 @@
     <Compile Include="Assets\Estudios\22-12-17\Events\Scripts\SimpleObjectMovement.cs" />
     <Compile Include="Assets\Estudios\22-12-17\Events\Scripts\TriggerCausedEvents.cs" />
     <Compile Include="Assets\Estudios\22-12-17\NonMonoBehaviours\Scripts\ItemSpawner.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\AI\Scripts\FSM V2\FSMController.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\AI\Scripts\FSM V2\Human.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\AI\Scripts\FSM V2\States\WanderState.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\AI\Scripts\Simple V1\AIController.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\AI\Scripts\Simple V1\States\AIState.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\AI\Scripts\Simple V1\States\PatrolState.cs" />
+    <Compile Include="Assets\Estudios\28-12-17\AI\Scripts\Simple V1\States\WanderState.cs" />
     <Compile Include="Assets\Estudios\28-12-17\Static Classes\Scripts\DistanceChecker.cs" />
     <Compile Include="Assets\Estudios\28-12-17\Static Classes\Scripts\GameManager.cs" />
     <Compile Include="Assets\Estudios\28-12-17\Static Classes\Scripts\Player.cs" />
