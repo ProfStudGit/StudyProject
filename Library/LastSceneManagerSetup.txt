@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Estudios/28-12-17/AI/Scenes/Test.unity
+- path: Assets/CosasSerias/1-3-18/Shaders/Scenes/Test.unity
   isLoaded: 1
   isActive: 1
